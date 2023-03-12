@@ -1,6 +1,6 @@
 package in.code.design;
 
-public class DesignFour {
+public class Design_4 {
 	
 	/*
 	 * You should give boolean methods or varibales names meaningfully like
@@ -26,7 +26,7 @@ public class DesignFour {
 	
 	public static void main(String[] args) {
 		doSomeThingWithClassType(String.class); // This is how we can pass class type as method parameter
-		doSomeThingWithClassType(DesignOne.class);
+		doSomeThingWithClassType(Design_1.class);
 	}
 
 }

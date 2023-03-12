@@ -3,7 +3,7 @@ package in.code.design;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class DesignFive {
+public class Design_5 {
 	
 	public static void main(String[] args)  {
 		try {

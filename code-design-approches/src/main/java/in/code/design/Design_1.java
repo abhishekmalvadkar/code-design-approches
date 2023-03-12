@@ -19,7 +19,7 @@ import java.util.HashMap;
  * @author Rushikesh Malvadkar
  *
  */
-public class DesignOne {
+public class Design_1 {
 	
 	/*
 	 * Here we have learned how to return control from method
@@ -35,7 +35,7 @@ public class DesignOne {
 	}
 	
 	public static void main(String[] args) {
-		DesignOne designOne = new DesignOne();
+		Design_1 designOne = new Design_1();
 		designOne.doSomething(1);
 		designOne.doSomething(-1);
 		designOne.doSomething(2);

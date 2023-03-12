@@ -1,6 +1,6 @@
 package in.code.design;
 
-public class DesignThree {
+public class Design_3 {
 	
 	public static void main(String[] args) {
 		System.out.println(SingletonClass.getInstance().hashCode());// 305808283

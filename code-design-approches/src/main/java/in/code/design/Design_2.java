@@ -1,6 +1,6 @@
 package in.code.design;
 
-public class DesignTwo {
+public class Design_2 {
 	
 	/*
 	 * Learnig things
